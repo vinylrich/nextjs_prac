@@ -1,0 +1,11 @@
+.active{
+    color:#0070f3;
+}
+
+.nonActive{
+    color: darkgray;
+}
+
+.link{
+    text-decoration: none;
+}
